@@ -22,7 +22,8 @@
   ]
 
 , "zAnmLoaded": 
-  [ ["0x0", "__end", null]
+  [ ["0x0", "anmfile_loaded", "int32_t"]
+  , ["0x4", "__end", null]
   ]
 
 , "zAnmLoadedD3D": 
